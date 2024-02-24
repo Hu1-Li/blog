@@ -1,0 +1,4 @@
+baseURL: https://hu1-li.github.io/blog/
+languageCode: en-us
+title: Hui's Blog
+theme: ["PaperMod"]
